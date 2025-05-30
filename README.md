@@ -38,12 +38,14 @@ me = SeniorDistributedSystemsArchitect()
 ### 🔥 Featured Projects
 
 ![High-Performance-Computing-Framework](https://img.shields.io/badge/Featured-High_Performance_Computing_Framework-blue)
+
 **Distributed computing engine for AI/ML workloads**  
 🚀 Designed low-latency communication protocols and dynamic load balancing  
 📈 Achieved 20% throughput increase and 35% latency reduction  
 🔗 Supported large-scale chip verification workflows
 
 [![BookmarkExtractor](https://github-readme-stats.vercel.app/api/pin/?username=victorclover&repo=BookmarkExtractor&theme=dracula&show_owner=true)](https://github.com/victorclover/BookmarkExtractor)
+
 **Transform your browser chaos into an organized knowledge base!**  
 Leveraging LLMs to automatically categorize and structure bookmarks  
 ✨ *Current status: Semi-automatic MVP complete | Full automation in development*
@@ -54,19 +56,19 @@ Leveraging LLMs to automatically categorize and structure bookmarks
 
 #### 💻 Programming Languages
 
-![](https://img.shields.io/badge/C-%2300599C?logo=c&logoColor=white)![](https://img.shields.io/badge/C++-%2300599C?logo=c%2B%2B&logoColor=white)![](https://img.shields.io/badge/Go-%2300ADD8?logo=go&logoColor=white)![](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white)
+![](https://img.shields.io/badge/C-%2300599C?logo=c&logoColor=white) ![](https://img.shields.io/badge/C++-%2300599C?logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/Go-%2300ADD8?logo=go&logoColor=white) ![](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white)
 
 #### 🏗️ Distributed Systems
 
-![](https://img.shields.io/badge/Architecture-Microservices/Serverless/CQRS)![](https://img.shields.io/badge/Technologies-RDMA,_Zero_Copy,_Load_Balancing-important)
+![](https://img.shields.io/badge/Architecture-Microservices/Serverless/CQRS) ![](https://img.shields.io/badge/Technologies-RDMA,_Zero_Copy,_Load_Balancing-important)
 
 #### 🧠 AI & LLM
 
-![](https://img.shields.io/badge/LLM_Applications-FF6F00?logo=openai&logoColor=white)![](https://img.shields.io/badge/Model_Fine_Tuning-430098?logo=databricks&logoColor=white)![](https://img.shields.io/badge/Inference_Optimization-FFD43B?logo=nvidia&logoColor=black)![](https://img.shields.io/badge/Transformers-FF8C00?logo=huggingface&logoColor=white)
+![](https://img.shields.io/badge/LLM_Applications-FF6F00?logo=openai&logoColor=white) ![](https://img.shields.io/badge/Model_Fine_Tuning-430098?logo=databricks&logoColor=white) ![](https://img.shields.io/badge/Inference_Optimization-FFD43B?logo=nvidia&logoColor=black) ![](https://img.shields.io/badge/Transformers-FF8C00?logo=huggingface&logoColor=white)
 
 #### 🛠️ Infrastructure & Tools
 
-![](https://img.shields.io/badge/Docker-%230099CC?logo=docker&logoColor=white)![](https://img.shields.io/badge/Kubernetes-%23326CE5?logo=kubernetes&logoColor=white)![](https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white)![](https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Docker-%230099CC?logo=docker&logoColor=white) ![](https://img.shields.io/badge/Kubernetes-%23326CE5?logo=kubernetes&logoColor=white) ![](https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white) ![](https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black)
 
 ### 🏆 Industry Recognition
 ![](https://img.shields.io/badge/Patents-17_CN/TW/US_Granted-0077C0) 
@@ -89,11 +91,9 @@ Leveraging LLMs to automatically categorize and structure bookmarks
 
 ### 📫 Connect With Me
 
-[![Email](https://img.shields.io/badge/📧_Senior_Architect_Consulting-victorclover@outlook.com-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:victorclover@outlook.com)[![GitHub](https://img.shields.io/badge/GitHub-%23181717?logo=github)](https://github.com/victorclover)
+[![Email](https://img.shields.io/badge/📧_Senior_Architect_Consulting-victorclover@outlook.com-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:victorclover@outlook.com) [![GitHub](https://img.shields.io/badge/GitHub-%23181717?logo=github)](https://github.com/victorclover)
 
 ------
-
-### 😄 Developer Insights
 
 ### 😄 Developer Insights
 
